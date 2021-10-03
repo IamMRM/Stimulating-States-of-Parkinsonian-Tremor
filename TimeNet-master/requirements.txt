@@ -1,0 +1,5 @@
+scikit-learn
+pandas
+matplotlib
+pyarrow>=0.17
+sktime
