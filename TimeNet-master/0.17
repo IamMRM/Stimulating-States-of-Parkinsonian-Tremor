@@ -1,0 +1,2 @@
+Requirement already satisfied: pyarrow in d:\anaconda3\envs\keras\lib\site-packages (5.0.0)
+Requirement already satisfied: numpy>=1.16.6 in d:\anaconda3\envs\keras\lib\site-packages (from pyarrow) (1.21.1)
