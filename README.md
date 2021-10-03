@@ -10,3 +10,5 @@ For getting the preprocessed data and its matlab code, contact the authors
 Other details of the work are present in the presentation.
 
 The .py files are to be used. If want to check the testing then refer to the Python Notebook files. For working in deeplearning there is an architecture called TimeNet. Working implementation is in the respective folder but its capabilities are yet to be searched.
+
+![image](https://user-images.githubusercontent.com/32590595/135745124-0dcb8ba1-7189-4109-95ca-668fde4d748b.png)
